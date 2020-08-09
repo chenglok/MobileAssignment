@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mobile Assignment</string>
+    <string name="logo">The Wok</string>
+    <string name="login_button">LOGIN</string>
 </resources>
