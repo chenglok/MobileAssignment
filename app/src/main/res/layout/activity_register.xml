@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:text="@string/register_title"
         android:textColor="#673AB7"
-        android:textSize="18sp"
+        android:textSize="20sp"
         app:fontFamily="@font/aclonica"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -24,8 +24,8 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="103dp"
-        android:layout_height="124dp"
+        android:layout_width="128dp"
+        android:layout_height="119dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
